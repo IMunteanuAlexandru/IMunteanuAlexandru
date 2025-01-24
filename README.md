@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AlexandruMunteanuIoan/AlexandruMunteanuIoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Alexandru 👋
 
-Here are some ideas to get you started:
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMunteanuAlexandru&theme=apprentice" alt="Repos per language" width="90%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex;">
+
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IMunteanuAlexandru&theme=apprentice" alt="Repos per language" width="45%">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IMunteanuAlexandru&theme=apprentice" alt="Most commit language" width="45%">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IMunteanuAlexandru&theme=apprentice" alt="Stats" width="45%">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IMunteanuAlexandru&theme=apprentice&utcOffset=8" alt="Productive time" width="45%">
+
+</div>
+
+</div>
